@@ -14,4 +14,6 @@
 
 - https://www.youtube.com/@twzni.g
 - .ili_ (디스코드)
-- 투와드는 질풍노도의 시기#030 (라이엇)
+- TnznI#투와드다 (라이엇)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=youti1021&show_icons=true&theme=radical)
